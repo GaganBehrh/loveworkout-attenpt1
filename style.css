@@ -39,6 +39,32 @@ ul li:hover {
 }
 
 #workoutreason img {
-  width: 50%;
+  width: 55%;
   height: 500px;
+  border-radius: 20px;
+}
+#tenreasons {
+  float: right;
+  margin-top: -467px;
+  color: white;
+  margin-right: 123px;
+}
+
+#topreasons {
+  float: right;
+  margin-top: -439px;
+  margin-right: -321px;
+  color: white;
+  list-style-type: none;
+}
+
+#topreasons li {
+  margin-left: -800px;
+  font-size: 25px;
+  margin-top: 20px;
+  list-style-type: circle;
+}
+
+#topreasons li:hover {
+  border-bottom: 0px solid white;
 }
